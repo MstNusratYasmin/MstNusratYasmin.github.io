@@ -160,8 +160,8 @@ redirect_from:
 				</div>
 			</div>
 			</a>
-	</body>
 </div>
+</body>
 </html>
 
 
