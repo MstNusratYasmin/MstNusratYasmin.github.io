@@ -147,7 +147,6 @@ redirect_from:
 				</div>
 			</div>
 			</a>
-		<!--  -->
 	</body>
 </html>
 
