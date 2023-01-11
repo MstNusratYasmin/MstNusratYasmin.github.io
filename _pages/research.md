@@ -39,11 +39,11 @@ wheeled balancing robot.
 **Research Title:** 
 My broad research interests are in ......
 
-* Additive Manufacturing
-* Material Science
+* Robotics
 * Mechatronics
-* Rapid Prototyping with CAD.
-
+* Additive manufacturing
+* Mechatronics
+* Rapid prototyping with CAD.
 
 ## <font color="#00cc66"> Publications </font>  
 **[1] Design and Fabrication of a Low-Cost Customizable Modern CNC Laser Cutter.**
