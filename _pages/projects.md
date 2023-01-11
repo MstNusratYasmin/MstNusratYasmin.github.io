@@ -147,6 +147,19 @@ redirect_from:
 				</div>
 			</div>
 			</a>
+			<a href="../files/projects/p15.html" target="_blank">
+						<div class="card">
+				<div class="card-header">
+				  <img src="../files/images/p15.JPG" alt="rover" />
+				</div>
+				<div class="card-body">
+				  <!-- <span class="tag tag-teal">Technology</span> -->
+				  <h4 align="center">
+				    Design and fabrication of a self-balancing robot using inverted pendulum system
+				  </h4>
+				</div>
+			</div>
+			</a>
 	</body>
 </div>
 </html>
