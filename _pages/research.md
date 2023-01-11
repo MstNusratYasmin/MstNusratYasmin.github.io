@@ -42,7 +42,6 @@ My broad research interests are in ......
 * Robotics
 * Mechatronics
 * Additive manufacturing
-* Mechatronics
 * Rapid prototyping with CAD.
 
 ## <font color="#00cc66"> Publications </font>  
